@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Safe Pest Solutions",
+      "contact": "+1-555-1001",
+      "time": "2024-12-24T08:00:00",
+      "place": "123 Pest St, Springfield",
+      "ext": {
+        "service_type": "Ant Control",
+        "service_details": "Treatment for indoor and outdoor ant infestations.",
+        "area": "Small apartment",
+        "cost": 80.00,
+        "duration": "1 hour"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Eco Pest Control",
+      "contact": "+1-555-1002",
+      "time": "2024-12-24T09:00:00",
+      "place": "456 Oak Rd, Springfield",
+      "ext": {
+        "service_type": "Rodent Control",
+        "service_details": "Rodent extermination and prevention services.",
+        "area": "Medium house",
+        "cost": 120.00,
+        "duration": "1.5 hours"
+      }
+    },
+    {
+      "id": 3,
+      "name": "PestGuard Experts",
+      "contact": "+1-555-1003",
+      "time": "2024-12-24T10:30:00",
+      "place": "789 Birch Ln, Springfield",
+      "ext": {
+        "service_type": "Bed Bug Treatment",
+        "service_details": "Safe and effective treatment for bed bug infestations.",
+        "area": "Small house",
+        "cost": 150.00,
+        "duration": "2 hours"
+      }
+    },
+    {
+      "id": 4,
+      "name": "QuickEx Termite Control",
+      "contact": "+1-555-1004",
+      "time": "2024-12-24T11:00:00",
+      "place": "321 Cedar Ave, Springfield",
+      "ext": {
+        "service_type": "Termite Inspection",
+        "service_details": "Comprehensive inspection for termite damage.",
+        "area": "Large property",
+        "cost": 200.00,
+        "duration": "2.5 hours"
+      }
+    },
+    {
+      "id": 5,
+      "name": "BugBusters",
+      "contact": "+1-555-1005",
+      "time": "2024-12-24T12:00:00",
+      "place": "654 Pine Blvd, Springfield",
+      "ext": {
+        "service_type": "Spider Control",
+        "service_details": "Removal and prevention of spider infestations.",
+        "area": "Medium house",
+        "cost": 100.00,
+        "duration": "1 hour"
+      }
+    }
+  ]
+  

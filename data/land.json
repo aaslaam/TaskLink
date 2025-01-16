@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Green Lawn Care",
+      "contact": "+1-555-0001",
+      "time": "2024-12-23T08:30:00",
+      "place": "123 Green St, Springfield",
+      "ext": {
+        "service_type": "Lawn Mowing",
+        "service_details": "Mowing and edging of the lawn",
+        "area": "Small yard",
+        "cost": 50.00,
+        "duration": "1 hour"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sunny Landscaping",
+      "contact": "+1-555-0002",
+      "time": "2024-12-23T09:00:00",
+      "place": "456 Maple Ave, Springfield",
+      "ext": {
+        "service_type": "Tree Planting",
+        "service_details": "Planting of two young trees in the front yard",
+        "area": "Medium yard",
+        "cost": 120.00,
+        "duration": "2 hours"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Lush Greenery",
+      "contact": "+1-555-0003",
+      "time": "2024-12-23T10:30:00",
+      "place": "789 Oak Rd, Springfield",
+      "ext": {
+        "service_type": "Fertilizing",
+        "service_details": "Fertilizing the lawn with organic fertilizer",
+        "area": "Large yard",
+        "cost": 80.00,
+        "duration": "1.5 hours"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Perfect Turf",
+      "contact": "+1-555-0004",
+      "time": "2024-12-23T11:00:00",
+      "place": "321 Elm St, Springfield",
+      "ext": {
+        "service_type": "Lawn Aeration",
+        "service_details": "Aerating the lawn to improve grass growth",
+        "area": "Small yard",
+        "cost": 60.00,
+        "duration": "1 hour"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Tidy Gardens",
+      "contact": "+1-555-0005",
+      "time": "2024-12-23T12:00:00",
+      "place": "654 Pine Ln, Springfield",
+      "ext": {
+        "service_type": "Landscaping Design",
+        "service_details": "Designing a beautiful garden with flowers and shrubs",
+        "area": "Large yard",
+        "cost": 150.00,
+        "duration": "3 hours"
+      }
+    }
+  ]
+  

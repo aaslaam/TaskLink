@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "title": "Taxi Services",
+      "description": "Traditional local taxi companies or ride-sharing apps like Uber and Lyft.",
+      "image": "https://images.pexels.com/photos/2399254/pexels-photo-2399254.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "url": "/taxi"
+    },
+    {
+      "id": 2,
+      "title": "House Cleaning Services",
+      "description": "Regular cleaning, deep cleaning, move-in/move-out cleaning, post-construction cleaning, etc.",
+      "image": "https://th.bing.com/th/id/OIP.OUH39oZ-uk_i_TwT40mQKAHaE8?rs=1&pid=ImgDetMain",
+      "url": "/cleaning"
+    },
+    {
+      "id": 3,
+      "title": "Handyman Services",
+      "description": "Local professionals for home repairs, plumbing, electrical work, and general maintenance.",
+      "image": "https://res.cloudinary.com/a-votre-service/fl_lossy,f_auto/wp-website/uploads/2021/02/1.png",
+      "url": "/handyman"
+    },
+    {
+      "id": 4,
+      "title": "Lawn Care & Landscaping",
+      "description": "Lawn mowing, gardening, landscaping design, seasonal tasks, and pest control for yards.",
+      "image": "https://th.bing.com/th/id/OIP.TgUk7Unlal2Gtm19tVHREwAAAA?rs=1&pid=ImgDetMain",
+      "url": "/lander"
+    },
+    {
+      "id": 5,
+      "title": "Pest Control",
+      "description": "Services to handle infestations of insects, rodents, termites, and other pests.",
+      "image": "https://th.bing.com/th/id/OIP.RqZzjI_onuxcDrRM1Qr22AHaE-?rs=1&pid=ImgDetMain",
+      "url": "/pest"
+    },
+    {
+      "id": 6,
+      "title": "Airbnb/Short-Term Rental Cleaning",
+      "description": "Specialized cleaning for short-term rental properties between guest stays.",
+      "image": "https://www.lodgify.com/blog/wp-content/uploads/2022/04/pexels-karolina-grabowska-4239113.jpg",
+      "url": "/Airbnb"
+    },
+    {
+      "id": 7,
+      "title": "Home Painting Services",
+      "description": "Interior and exterior painting for homes, including touch-ups and full re-painting projects.",
+      "image": "https://cleaning-centre.com/wp-content/uploads/2018/04/Screenshot_316-1024x403.png",
+      "url": "/painting"
+    },
+    {
+      "id": 8,
+      "title": "Moving Services",
+      "description": "Local movers who help with transporting furniture and belongings during a move.",
+      "image": "https://th.bing.com/th/id/OIP.JGCZZdbCySHva7WCvXkkZwHaE8?rs=1&pid=ImgDetMain",
+      "url": "/moving"
+    },
+    {
+      "id": 9,
+      "title": "Home Security & Alarm Systems",
+      "description": "Installation and maintenance of home security systems, cameras, and alarms to enhance safety.",
+      "image": "https://th.bing.com/th/id/OIP.BIm1lBHyIZdz7Px__6AUHQHaFj?rs=1&pid=ImgDetMain",
+      "url": "/alarm"
+    }
+  ]
+  

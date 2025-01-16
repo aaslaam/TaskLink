@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "Cozy Downtown Apartment",
+      "contact": "+1-555-1010",
+      "time": "2024-12-25T14:00:00",
+      "place": "123 Main St, Downtown Springfield",
+      "ext": {
+        "room_type": "Entire Apartment",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "price_per_night": 150.00,
+        "amenities": ["WiFi", "Air Conditioning", "Parking", "Kitchen"]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Luxury Beachfront Villa",
+      "contact": "+1-555-1020",
+      "time": "2024-12-26T15:30:00",
+      "place": "456 Ocean Blvd, Coastal City",
+      "ext": {
+        "room_type": "Villa",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "price_per_night": 500.00,
+        "amenities": ["Pool", "WiFi", "Ocean View", "Hot Tub", "Kitchen"]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Modern City Loft",
+      "contact": "+1-555-1030",
+      "time": "2024-12-27T16:00:00",
+      "place": "789 City Center Ave, Metro City",
+      "ext": {
+        "room_type": "Entire Loft",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "price_per_night": 120.00,
+        "amenities": ["WiFi", "Elevator", "Kitchen", "Laundry"]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Charming Cottage in the Countryside",
+      "contact": "+1-555-1040",
+      "time": "2024-12-28T12:00:00",
+      "place": "123 Country Rd, Greenfield",
+      "ext": {
+        "room_type": "Entire Cottage",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "price_per_night": 80.00,
+        "amenities": ["WiFi", "Fireplace", "Kitchen", "Garden"]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Spacious Downtown Penthouse",
+      "contact": "+1-555-1050",
+      "time": "2024-12-29T10:30:00",
+      "place": "456 Highrise Blvd, Metro City",
+      "ext": {
+        "room_type": "Penthouse",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "price_per_night": 350.00,
+        "amenities": ["WiFi", "Balcony", "Hot Tub", "Fitness Center"]
+      }
+    },
+    {
+      "id": 6,
+      "name": "Cozy Mountain Retreat",
+      "contact": "+1-555-1060",
+      "time": "2024-12-30T13:00:00",
+      "place": "789 Mountain View Rd, Hilltop",
+      "ext": {
+        "room_type": "Cabin",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "price_per_night": 200.00,
+        "amenities": ["WiFi", "Fireplace", "Ski-in/Ski-out", "Kitchen"]
+      }
+    },
+    {
+      "id": 7,
+      "name": "Stylish Urban Apartment",
+      "contact": "+1-555-1070",
+      "time": "2024-12-31T17:00:00",
+      "place": "123 Urban St, City Center",
+      "ext": {
+        "room_type": "Entire Apartment",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "price_per_night": 150.00,
+        "amenities": ["WiFi", "Smart TV", "Kitchen", "Balcony"]
+      }
+    },
+    {
+      "id": 8,
+      "name": "Secluded Forest Cabin",
+      "contact": "+1-555-1080",
+      "time": "2025-01-01T14:00:00",
+      "place": "321 Forest Rd, Woodlands",
+      "ext": {
+        "room_type": "Cabin",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "price_per_night": 95.00,
+        "amenities": ["WiFi", "Hiking Trails", "Fireplace", "Seclusion"]
+      }
+    },
+    {
+      "id": 9,
+      "name": "Luxury Ski Lodge",
+      "contact": "+1-555-1090",
+      "time": "2025-01-02T18:00:00",
+      "place": "789 Snowy Mountain Rd, Winterland",
+      "ext": {
+        "room_type": "Lodge",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "price_per_night": 800.00,
+        "amenities": ["Ski-in/Ski-out", "WiFi", "Hot Tub", "Kitchen"]
+      }
+    },
+    {
+      "id": 10,
+      "name": "Cozy Lakeside Cabin",
+      "contact": "+1-555-1100",
+      "time": "2025-01-03T11:00:00",
+      "place": "456 Lakeshore Rd, Lakeview",
+      "ext": {
+        "room_type": "Cabin",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "price_per_night": 130.00,
+        "amenities": ["WiFi", "Lake View", "Kitchen", "Private Dock"]
+      }
+    }
+  ]
+  
